@@ -14,7 +14,7 @@
 - [Technology Used 🚀](#technology-used)
 - [Run Locally 💥](#run-locally)
 - [Contact Me 📞](#contact-me)
-- [License [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)](#license)
+- [License 📝](#license)
 <br>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -53,7 +53,9 @@ You can contact me through LinkedIn mentioned below.<br><br>
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2>License [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)</h2>
+<h2>License 📝</h2>
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 This repository is licensed under the Apache-2.0 License. Please refer to the LICENSE file for more information.
 
@@ -62,9 +64,6 @@ The Apache-2.0 License is a permissive open-source license that allows you to us
 For detailed terms and conditions, please see the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache-2.0 License.
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
-You can contact me through LinkedIn mentioned below.<br><br>
-<a href="https://www.linkedin.com/in/snehilsharma31/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px"></a>
 
 <h3>Give it a 🌟 if you ❤ the website. Happy Coding👨‍💻</h3>
 <p align="right">(<a href="#top">back to top</a>)</p>
