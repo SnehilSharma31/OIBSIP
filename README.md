@@ -9,6 +9,9 @@
 <h2>Table of Contents 🧾</h2>
 
 - [Introduction 📌](#introduction)
+- [Task 1 - Landing Page 📄](#task1)
+- [Task 2 - Portfolio 👦🏻](#task2)
+- [Task 3 - Tempearature Converter 🌡️](#task3)
 - [Technology Used 🚀](#technology-used)
 - [Run Locally 💥](#run-locally)
 - [Contact Me 📞](#contact-me)
