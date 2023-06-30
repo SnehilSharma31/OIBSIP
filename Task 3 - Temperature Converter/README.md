@@ -59,7 +59,7 @@ This repository is licensed under the Apache-2.0 License. Please refer to the LI
 
 The Apache-2.0 License is a permissive open-source license that allows you to use, modify, and distribute this software in both commercial and non-commercial projects. It also provides an express grant of patent rights.
 
-For detailed terms and conditions, please see the <href="https://www.apache.org/licenses/LICENSE-2.0>Apache-2.0 License.
+For detailed terms and conditions, please see the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache-2.0 License.
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
