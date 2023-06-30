@@ -4,8 +4,6 @@
 
 <h1> Website: <a href="https://snehilsharma31.github.io/OIBSIP/Task%203%20-%20Temperature%20Converter/index.html">Visit Now 🌐</a></h1>
 
-![Task 3 - Tempearture Converter](https://github.com/SnehilSharma31/OIBSIP/blob/main/Task%203%20-%20Temperature%20Converter/Preview.png)
-
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <h2>Table of Contents 🧾</h2>
